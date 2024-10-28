@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
         // Setup RecyclerView
         val recyclerView: RecyclerView = findViewById(R.id.recycler_view)
         recyclerView.layoutManager = LinearLayoutManager(this)
-        recyclerView.setHasFixedSize(true)  // Tambahkan ini untuk optimasi
+        recyclerView.setHasFixedSize(true)
 
         val cardItems = listOf(
             CardItem(R.drawable.water_goals, "Water Goals", R.drawable.chart1),

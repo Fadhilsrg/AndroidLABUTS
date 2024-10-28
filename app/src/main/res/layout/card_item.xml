@@ -6,7 +6,7 @@
     android:orientation="horizontal"
     android:padding="12dp"
     android:gravity="center_vertical"
-    android:background="#292929"
+    android:background="#333333"
     android:layout_marginBottom="10dp">
 
     <com.google.android.material.imageview.ShapeableImageView
