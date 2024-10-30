@@ -18,7 +18,8 @@ Deskripsi :
 5. Aplikasi hanya menggunakan 1 activity yang bisa digunakan secara terus menerus untuk perbedaan dari setiap card
 6. Aplikasi menggunakan intent untuk melempar data, based on holder yang berisikan value pada card di main activity
 
-#Asset
+# Asset
+
 Semua foto : https://id.pinterest.com/
 
 Icon : https://www.figma.com/community/file/864789894091451309
